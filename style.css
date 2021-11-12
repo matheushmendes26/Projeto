@@ -1,0 +1,16 @@
+html{
+    font-size: larger;
+}
+
+body{
+    display:inline-flex;
+    
+    background-color: aqua;
+    border:solid;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+form{
+    align-items: center;
+    background-color: blue;
+    font-family: 'Roboto Condensed', sans-serif;
+}
